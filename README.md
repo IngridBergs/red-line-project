@@ -5,9 +5,9 @@ BASIC CMS FOR PHOTOGRAPHY WEBSITE
 
 FEATURES:
 
-adminpage:
+loginscreen:
 
-register/login user /adminpages
+register/login user
 
 login name + pw /change pw
 
@@ -16,6 +16,8 @@ profile : name / email / tel /user role
 logout
 
 /*----------------------------------------------------------------------------------------------------------*/
+
+adminpages:
 
 add/remove /(re)name photo album/category
 
@@ -46,6 +48,7 @@ logo / welcome message / short bio / contact
 ...?
 
 /*----------------------------------------------------------------------------------------------------------*/
+
 VERY USERFRIENDLY:
 
 
